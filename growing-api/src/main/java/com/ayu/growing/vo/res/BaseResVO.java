@@ -1,4 +1,4 @@
-package com.bilibili.growing.vo.res;
+package com.ayu.growing.vo.res;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

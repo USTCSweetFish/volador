@@ -1,12 +1,8 @@
-package com.bilibili.growing;
+package com.ayu.growing;
 
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
-
-
-import javax.servlet.ServletContext;
-import javax.servlet.ServletException;
 
 public class ServletInitializer extends SpringBootServletInitializer {
 

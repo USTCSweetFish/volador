@@ -1,4 +1,4 @@
-package com.bilibili.growing.utils;
+package com.ayu.growing.utils;
 
 import org.apache.commons.lang.StringUtils;
 

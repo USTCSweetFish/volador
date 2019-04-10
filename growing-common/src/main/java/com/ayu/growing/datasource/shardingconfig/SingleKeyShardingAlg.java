@@ -1,6 +1,6 @@
-package com.bilibili.growing.datasource.shardingconfig;
+package com.ayu.growing.datasource.shardingconfig;
 
-import com.bilibili.growing.exception.ExceptionEnum;
+import com.ayu.growing.exception.ExceptionEnum;
 import com.dangdang.ddframe.rdb.sharding.api.ShardingValue;
 import com.dangdang.ddframe.rdb.sharding.api.strategy.table.SingleKeyTableShardingAlgorithm;
 

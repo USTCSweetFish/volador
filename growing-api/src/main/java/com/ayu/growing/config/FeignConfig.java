@@ -1,4 +1,4 @@
-package com.bilibili.growing.config;
+package com.ayu.growing.config;
 
 import feign.Retryer;
 import feign.codec.Decoder;

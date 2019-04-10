@@ -1,4 +1,4 @@
-package com.bilibili.growing.entity;
+package com.ayu.growing.entity;
 
 import lombok.Data;
 

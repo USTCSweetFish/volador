@@ -1,11 +1,10 @@
-package com.bilibili.growing.web;
+package com.ayu.growing.web;
 
-import com.bilibili.growing.GrowingApplication;
-import com.bilibili.growing.annotation.RequestLimit;
-import com.bilibili.growing.entity.JdEntity;
-import com.bilibili.growing.rss.HelloService;
-import com.bilibili.growing.utils.HttpUtils;
-import com.bilibili.growing.vo.req.HelloReqVO;
+import com.ayu.growing.annotation.RequestLimit;
+import com.ayu.growing.entity.JdEntity;
+import com.ayu.growing.rss.HelloService;
+import com.ayu.growing.utils.HttpUtils;
+import com.ayu.growing.vo.req.HelloReqVO;
 import io.swagger.annotations.ApiOperation;
 
 import org.apache.http.HttpResponse;
@@ -19,7 +18,6 @@ import org.jsoup.select.Elements;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.SpringApplication;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.RequestBody;

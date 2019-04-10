@@ -1,8 +1,8 @@
-package com.bilibili.growing.datasource.shardingconfig;
+package com.ayu.growing.datasource.shardingconfig;
 
-import com.bilibili.growing.constant.ShardingConstant;
-import com.bilibili.growing.constant.TimeConstant;
-import com.bilibili.growing.exception.ExceptionEnum;
+import com.ayu.growing.constant.ShardingConstant;
+import com.ayu.growing.constant.TimeConstant;
+import com.ayu.growing.exception.ExceptionEnum;
 import com.dangdang.ddframe.rdb.sharding.api.ShardingValue;
 import com.dangdang.ddframe.rdb.sharding.api.strategy.table.SingleKeyTableShardingAlgorithm;
 import org.joda.time.DateTime;

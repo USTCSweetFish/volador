@@ -1,4 +1,4 @@
-package com.bilibili.growing.config;
+package com.ayu.growing.config;
 
 import com.xxl.job.core.executor.XxlJobExecutor;
 import org.slf4j.Logger;

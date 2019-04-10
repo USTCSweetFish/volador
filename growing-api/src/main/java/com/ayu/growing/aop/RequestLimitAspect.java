@@ -1,11 +1,10 @@
-package com.bilibili.growing.aop;
+package com.ayu.growing.aop;
 
-import com.bilibili.growing.annotation.RequestLimit;
-import com.bilibili.growing.exception.ExceptionEnum;
-import com.bilibili.growing.feign.RedisService;
-import com.bilibili.growing.utils.WebKit;
+import com.ayu.growing.annotation.RequestLimit;
+import com.ayu.growing.exception.ExceptionEnum;
+import com.ayu.growing.feign.RedisService;
+import com.ayu.growing.utils.WebKit;
 import org.aspectj.lang.JoinPoint;
-import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Before;
 import org.aspectj.lang.annotation.Pointcut;
@@ -14,7 +13,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.annotation.Order;
 import org.springframework.stereotype.Component;
 
-import javax.servlet.http.HttpServletRequest;
 import java.lang.reflect.Method;
 
 @Aspect
@@ -30,7 +28,7 @@ public class RequestLimitAspect {
     public void firstPointcut() {
     }
 
-    @Pointcut("@annotation(com.bilibili.growing.annotation.RequestLimit)")
+    @Pointcut("@annotation(com.ayu.growing.annotation.RequestLimit)")
     public void secondPointcut() {
 
     }

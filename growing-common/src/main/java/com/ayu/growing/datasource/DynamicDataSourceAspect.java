@@ -1,4 +1,4 @@
-package com.bilibili.growing.datasource;
+package com.ayu.growing.datasource;
 
 import org.aspectj.lang.JoinPoint;
 import org.aspectj.lang.annotation.After;
@@ -13,7 +13,7 @@ import java.lang.reflect.Method;
 @Component
 public class DynamicDataSourceAspect {
 
-    @Before("@annotation(com.bilibili.growing.datasource.DataSource)")
+    @Before("@annotation(com.ayu.growing.datasource.DataSource)")
     public void beforeSwitchDS(JoinPoint point) {
 
         Class<?> className = point.getTarget().getClass();
@@ -37,7 +37,7 @@ public class DynamicDataSourceAspect {
         DataSourceContextHolder.setDS(dataSource);
     }
 
-    @After("@annotation(com.bilibili.growing.datasource.DataSource)")
+    @After("@annotation(com.ayu.growing.datasource.DataSource)")
     public void afterSwitchDS(JoinPoint point) {
         DataSourceContextHolder.ClearDS();
     }

@@ -1,4 +1,4 @@
-package com.bilibili.growing.datasource.dbconfig;
+package com.ayu.growing.datasource.dbconfig;
 
 /**
  * 定义数据源名称，数据源可由1到多个数据库组成

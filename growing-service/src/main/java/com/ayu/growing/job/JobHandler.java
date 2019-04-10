@@ -1,4 +1,4 @@
-package com.bilibili.growing.job;
+package com.ayu.growing.job;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;

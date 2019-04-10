@@ -1,4 +1,4 @@
-package com.bilibili.growing.config;
+package com.ayu.growing.config;
 
 import lombok.Data;
 import org.springframework.amqp.core.*;

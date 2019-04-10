@@ -1,13 +1,11 @@
-package com.bilibili.growing.provider;
+package com.ayu.growing.provider;
 
-import com.bilibili.growing.constant.DbConstant;
-import com.bilibili.growing.domain.SqlProviderHelper;
-import com.bilibili.growing.domain.Tuple;
-import com.bilibili.growing.entity.PayOrderEntity;
+import com.ayu.growing.constant.DbConstant;
+import com.ayu.growing.domain.SqlProviderHelper;
+import com.ayu.growing.domain.Tuple;
+import com.ayu.growing.entity.PayOrderEntity;
 import org.apache.commons.collections.CollectionUtils;
 import org.apache.commons.lang3.StringUtils;
-import org.apache.ibatis.annotations.Param;
-import org.apache.ibatis.annotations.SelectProvider;
 
 import java.util.ArrayList;
 import java.util.List;

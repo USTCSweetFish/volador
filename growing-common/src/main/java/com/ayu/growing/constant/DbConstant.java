@@ -1,4 +1,4 @@
-package com.bilibili.growing.constant;
+package com.ayu.growing.constant;
 
 public class DbConstant {
     public static final Integer DELETED_FLAG_NORMAL = Integer.valueOf(0);

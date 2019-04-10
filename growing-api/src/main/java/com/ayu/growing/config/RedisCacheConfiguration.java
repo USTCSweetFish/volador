@@ -1,4 +1,4 @@
-package com.bilibili.growing.config;
+package com.ayu.growing.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cache.annotation.CachingConfigurerSupport;

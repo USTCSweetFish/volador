@@ -1,4 +1,4 @@
-package com.bilibili.growing.datasource.dbconfig;
+package com.ayu.growing.datasource.dbconfig;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;

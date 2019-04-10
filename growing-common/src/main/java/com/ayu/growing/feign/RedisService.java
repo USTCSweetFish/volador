@@ -1,4 +1,4 @@
-package com.bilibili.growing.feign;
+package com.ayu.growing.feign;
 
 import org.springframework.data.redis.core.DefaultTypedTuple;
 import org.springframework.data.redis.core.RedisTemplate;

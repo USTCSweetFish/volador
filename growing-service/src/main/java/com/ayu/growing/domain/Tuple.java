@@ -1,4 +1,4 @@
-package com.bilibili.growing.domain;
+package com.ayu.growing.domain;
 
 public class Tuple {
     private String key;

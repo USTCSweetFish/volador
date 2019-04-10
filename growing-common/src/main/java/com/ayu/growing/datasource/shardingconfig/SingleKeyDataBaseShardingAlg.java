@@ -1,6 +1,6 @@
-package com.bilibili.growing.datasource.shardingconfig;
+package com.ayu.growing.datasource.shardingconfig;
 
-import com.bilibili.growing.datasource.dbconfig.DSName;
+import com.ayu.growing.datasource.dbconfig.DSName;
 import com.dangdang.ddframe.rdb.sharding.api.ShardingValue;
 import com.dangdang.ddframe.rdb.sharding.api.strategy.database.SingleKeyDatabaseShardingAlgorithm;
 

@@ -1,10 +1,10 @@
-package com.bilibili.growing.datasource;
+package com.ayu.growing.datasource;
 
-import com.bilibili.growing.datasource.dbconfig.DSName;
-import com.bilibili.growing.datasource.dsconfig.BaseDS;
-import com.bilibili.growing.datasource.shardingconfig.OpenPayAndOpenPay2Sharding;
-import com.bilibili.growing.datasource.shardingconfig.PayMngSharding;
-import com.bilibili.growing.datasource.shardingconfig.PaySharding;
+import com.ayu.growing.datasource.dbconfig.DSName;
+import com.ayu.growing.datasource.dsconfig.BaseDS;
+import com.ayu.growing.datasource.shardingconfig.OpenPayAndOpenPay2Sharding;
+import com.ayu.growing.datasource.shardingconfig.PayMngSharding;
+import com.ayu.growing.datasource.shardingconfig.PaySharding;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.SqlSessionFactoryBean;
 import org.mybatis.spring.SqlSessionTemplate;

@@ -1,4 +1,4 @@
-package com.bilibili.growing;
+package com.ayu.growing;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

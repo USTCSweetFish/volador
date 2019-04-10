@@ -1,4 +1,4 @@
-package com.bilibili.growing.interceptor;
+package com.ayu.growing.interceptor;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

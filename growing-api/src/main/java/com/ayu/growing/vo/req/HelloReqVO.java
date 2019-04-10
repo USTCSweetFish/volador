@@ -1,4 +1,4 @@
-package com.bilibili.growing.vo.req;
+package com.ayu.growing.vo.req;
 
 import io.swagger.annotations.ApiModel;
 import lombok.Data;

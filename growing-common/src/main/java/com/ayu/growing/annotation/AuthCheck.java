@@ -1,4 +1,4 @@
-package com.bilibili.growing.annotation;
+package com.ayu.growing.annotation;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

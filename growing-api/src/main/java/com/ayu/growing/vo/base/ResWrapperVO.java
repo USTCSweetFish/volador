@@ -1,7 +1,7 @@
-package com.bilibili.growing.vo.base;
+package com.ayu.growing.vo.base;
 
-import com.bilibili.growing.exception.ExceptionEnum;
-import com.bilibili.growing.exception.RequestException;
+import com.ayu.growing.exception.ExceptionEnum;
+import com.ayu.growing.exception.RequestException;
 import io.swagger.annotations.ApiModelProperty;
 import org.apache.commons.lang.StringUtils;
 

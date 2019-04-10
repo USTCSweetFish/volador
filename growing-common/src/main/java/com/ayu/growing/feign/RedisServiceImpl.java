@@ -1,4 +1,4 @@
-package com.bilibili.growing.feign;
+package com.ayu.growing.feign;
 
 import org.apache.commons.lang.StringUtils;
 import org.springframework.data.redis.core.BoundHashOperations;

@@ -1,4 +1,4 @@
-package com.bilibili.growing.annotation;
+package com.ayu.growing.annotation;
 
 public @interface userAuth {
 

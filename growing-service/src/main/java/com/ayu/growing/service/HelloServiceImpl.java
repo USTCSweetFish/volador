@@ -1,8 +1,8 @@
-package com.bilibili.growing.service;
+package com.ayu.growing.service;
 
-import com.bilibili.growing.domain.HelloDomain;
-import com.bilibili.growing.entity.PayOrderEntity;
-import com.bilibili.growing.rss.HelloService;
+import com.ayu.growing.domain.HelloDomain;
+import com.ayu.growing.entity.PayOrderEntity;
+import com.ayu.growing.rss.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;

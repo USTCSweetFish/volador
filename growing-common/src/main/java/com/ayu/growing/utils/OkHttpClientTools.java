@@ -1,4 +1,4 @@
-package com.bilibili.growing.utils;
+package com.ayu.growing.utils;
 
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
@@ -7,7 +7,6 @@ import org.apache.commons.lang3.StringUtils;
 
 import java.io.IOException;
 import java.net.SocketTimeoutException;
-import java.util.List;
 import java.util.Map;
 import java.util.concurrent.*;
 

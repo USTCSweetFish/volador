@@ -1,6 +1,6 @@
-package com.bilibili.growing.domain;
+package com.ayu.growing.domain;
 
-import com.bilibili.growing.annotation.SqlKey;
+import com.ayu.growing.annotation.SqlKey;
 import org.apache.commons.lang3.StringUtils;
 
 import java.lang.reflect.Field;

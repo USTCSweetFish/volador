@@ -1,4 +1,4 @@
-package com.bilibili.growing.vo.res;
+package com.ayu.growing.vo.res;
 
 public class HelloResVO {
 }

@@ -1,6 +1,6 @@
-package com.bilibili.growing.datasource.shardingconfig;
+package com.ayu.growing.datasource.shardingconfig;
 
-import com.bilibili.growing.datasource.dsconfig.BaseDS;
+import com.ayu.growing.datasource.dsconfig.BaseDS;
 import com.dangdang.ddframe.rdb.sharding.api.ShardingDataSourceFactory;
 import com.dangdang.ddframe.rdb.sharding.api.rule.DataSourceRule;
 import com.dangdang.ddframe.rdb.sharding.api.rule.ShardingRule;

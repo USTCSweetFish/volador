@@ -1,4 +1,4 @@
-package com.bilibili.growing.config;
+package com.ayu.growing.config;
 
 public class LoginUserThreadLocal {
     public static String getUserAccount() {

@@ -1,4 +1,4 @@
-package com.bilibili.growing.rss;
+package com.ayu.growing.rss;
 
 
 public interface RabbitMqService {

@@ -1,6 +1,6 @@
-package com.bilibili.growing.entity;
+package com.ayu.growing.entity;
 
-import com.bilibili.growing.annotation.SqlKey;
+import com.ayu.growing.annotation.SqlKey;
 import lombok.Data;
 
 @Data

@@ -1,4 +1,4 @@
-package com.bilibili.growing.exception;
+package com.ayu.growing.exception;
 
 public class RequestException extends RuntimeException {
 

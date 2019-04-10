@@ -1,10 +1,8 @@
-package com.bilibili.growing.interceptor;
+package com.ayu.growing.interceptor;
 
-import com.bilibili.growing.config.LoginUserInfo;
-import com.bilibili.growing.config.LoginUserThreadLocal;
-import com.bilibili.growing.exception.ExceptionEnum;
-import com.bilibili.growing.exception.RequestException;
-import org.apache.commons.lang.StringUtils;
+import com.ayu.growing.config.LoginUserInfo;
+import com.ayu.growing.config.LoginUserThreadLocal;
+import com.ayu.growing.exception.RequestException;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;

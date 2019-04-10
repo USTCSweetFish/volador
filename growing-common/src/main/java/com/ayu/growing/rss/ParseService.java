@@ -1,6 +1,6 @@
-package com.bilibili.growing.rss;
+package com.ayu.growing.rss;
 
-import com.bilibili.growing.entity.JdEntity;
+import com.ayu.growing.entity.JdEntity;
 
 import java.util.List;
 

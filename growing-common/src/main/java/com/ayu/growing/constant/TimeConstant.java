@@ -1,4 +1,4 @@
-package com.bilibili.growing.constant;
+package com.ayu.growing.constant;
 
 import org.joda.time.format.DateTimeFormat;
 import org.joda.time.format.DateTimeFormatter;

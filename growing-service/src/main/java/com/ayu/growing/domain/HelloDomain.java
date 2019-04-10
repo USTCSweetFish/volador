@@ -1,7 +1,7 @@
-package com.bilibili.growing.domain;
+package com.ayu.growing.domain;
 
-import com.bilibili.growing.entity.PayOrderEntity;
-import com.bilibili.growing.provider.HelloProvider;
+import com.ayu.growing.provider.HelloProvider;
+import com.ayu.growing.entity.PayOrderEntity;
 import org.apache.ibatis.annotations.*;
 @Mapper
 public interface HelloDomain {

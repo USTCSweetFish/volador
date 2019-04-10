@@ -1,4 +1,4 @@
-package com.bilibili.growing.constant;
+package com.ayu.growing.constant;
 
 public class ShardingConstant {
     /**

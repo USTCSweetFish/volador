@@ -1,7 +1,6 @@
-package com.bilibili.growing.service;
+package com.ayu.growing.service;
 
-import com.bilibili.growing.config.RabbitMqConfig;
-import com.bilibili.growing.rss.RabbitMqService;
+import com.ayu.growing.rss.RabbitMqService;
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

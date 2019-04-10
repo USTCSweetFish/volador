@@ -1,6 +1,6 @@
-package com.bilibili.growing.service;
+package com.ayu.growing.service;
 
-import com.bilibili.growing.entity.JdEntity;
+import com.ayu.growing.entity.JdEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

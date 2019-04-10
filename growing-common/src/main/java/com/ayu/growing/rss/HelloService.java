@@ -1,6 +1,6 @@
-package com.bilibili.growing.rss;
+package com.ayu.growing.rss;
 
-import com.bilibili.growing.entity.PayOrderEntity;
+import com.ayu.growing.entity.PayOrderEntity;
 
 public interface HelloService {
     Integer add ();
