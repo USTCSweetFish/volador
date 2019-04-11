@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: growing-api
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: yangxu
-Implementation-Vendor-Id: com.bilibili
-Created-By: IntelliJ IDEA
-Build-Jdk: 1.8.0_172
-Main-Class: ${start-class}
-
