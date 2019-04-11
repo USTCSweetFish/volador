@@ -16,10 +16,10 @@ public class Swagger2 {
     @Bean
     public Docket createRestApi() {
         return new Docket(DocumentationType.SWAGGER_2).apiInfo(apiInfo()).select().apis(
-                RequestHandlerSelectors.basePackage("com.bilibili.growing")).paths(PathSelectors.any()).build();
+                RequestHandlerSelectors.basePackage("com.ayu.growing")).paths(PathSelectors.any()).build();
     }
 
     private ApiInfo apiInfo() {
-        return new ApiInfoBuilder().title("xxx项目一期").description("xxx项目接口文档").termsOfServiceUrl("https://www.bilibili.com/").version("1.0").build();
+        return new ApiInfoBuilder().title("xxx项目一期").description("xxx项目接口文档").termsOfServiceUrl("https://www.ayu.com/").version("1.0").build();
     }
 }
