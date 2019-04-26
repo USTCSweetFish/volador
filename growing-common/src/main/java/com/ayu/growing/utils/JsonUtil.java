@@ -1,4 +1,4 @@
-package com.macro.mall.util;
+package com.ayu.growing.utils;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.JavaType;

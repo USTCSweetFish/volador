@@ -1,8 +1,6 @@
-package com.macro.mall.util;
+package com.ayu.growing.utils;
 
 import javax.servlet.http.HttpServletRequest;
-import java.io.BufferedReader;
-import java.io.IOException;
 import java.util.Enumeration;
 import java.util.HashMap;
 import java.util.Map;
